@@ -1,0 +1,6 @@
+selected resource name:		data-ingestion
+selected resource type:		pipeline
+factory name:			olympics-tokyo-data-factory-laz
+factory location:		francecentral
+subscription id:		f7b62516-fa1b-440c-949f-4a1eb4f6162d
+time of download (UTC):		Wed, 12 Jun 2024 07:27:54 GMT
