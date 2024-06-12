@@ -1,0 +1,13 @@
+{
+    "name": "EntriesGenderSource",
+    "type": "Microsoft.DataFactory/factories/linkedservices",
+    "properties": {
+        "annotations": [],
+        "type": "HttpServer",
+        "typeProperties": {
+            "url": "https://raw.githubusercontent.com/lkolebka/tokyo-olympics-data-engineering/main/Dataset/EntriesGender.csv",
+            "enableServerCertificateValidation": true,
+            "authenticationType": "Anonymous"
+        }
+    }
+}

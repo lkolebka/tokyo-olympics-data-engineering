@@ -1,0 +1,6 @@
+selected resource name:		LoadMultiplesTable
+selected resource type:		pipeline
+workspace name:			tokyo-olympics-synapse-analytics
+workspace location:		francecentral
+subscription id:		f7b62516-fa1b-440c-949f-4a1eb4f6162d
+time of download (UTC):		Wed, 12 Jun 2024 07:38:22 GMT

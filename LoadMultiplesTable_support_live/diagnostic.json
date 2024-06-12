@@ -1,0 +1,22 @@
+{
+    "now": "2024-06-12T07:38:22.739Z",
+    "perfNow": 495537,
+    "diagnosticCorrelation": "693a245f-dbcc-478e-939c-4407ddf7ec0e",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "a365",
+        "buildVersion": "24.0520.05",
+        "environmentType": 9,
+        "resourceName": "tokyo-olympics-synapse-analytics",
+        "resourceRegion": "francecentral",
+        "resourceGroup": "olympics-tokyo",
+        "subscriptionId": "f7b62516-fa1b-440c-949f-4a1eb4f6162d",
+        "sessionId": "TJaur",
+        "operationId": "K9PAL",
+        "gitType": "live"
+    },
+    "additionalInfo": {
+        "selectedResource": "LoadMultiplesTable",
+        "selectedResourceType": "pipeline"
+    }
+}
